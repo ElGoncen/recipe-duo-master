@@ -8,5 +8,6 @@
   "license": "MIT",
   "config": {
     "serviceURL": "https://duo.google.com/?web&utm_source=marketing_page_button_top"
+  "hasNotificationSound": true
   }
 }
