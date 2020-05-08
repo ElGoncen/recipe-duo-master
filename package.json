@@ -2,7 +2,7 @@
   "id": "Duo",
   "name": "Google Duo",
   "version": "0.1",
-  "description": "Gmail",
+  "description": "Google Duo for Franz",
   "main": "index.js",
   "author": "Goncen",
   "license": "MIT",
